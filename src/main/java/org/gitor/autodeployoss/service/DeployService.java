@@ -1,1 +1,1 @@
-package org.gitor.autodeployoss.service;/** * 自动部署业务类 * @author : liuwenlong * @date : 2018/5/30 18:26 */public interface DeployService {    void excute();}
+package org.gitor.autodeployoss.service;import org.gitor.autodeployoss.entity.ParamsPojo;/** * 自动部署业务类 * @author : liuwenlong * @date : 2018/5/30 18:26 */public interface DeployService {    void excute(ParamsPojo paramsPojo);}
