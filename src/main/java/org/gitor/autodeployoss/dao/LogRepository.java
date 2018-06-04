@@ -1,0 +1,1 @@
+package org.gitor.autodeployoss.dao;import org.gitor.autodeployoss.entity.LogEntity;import org.springframework.data.jpa.repository.JpaRepository;/** * @author : liuwenlong * @date : 2018/6/4 15:07 */public interface LogRepository extends JpaRepository<LogEntity,Long>{}

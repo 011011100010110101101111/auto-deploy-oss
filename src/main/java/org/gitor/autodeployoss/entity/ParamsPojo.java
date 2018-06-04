@@ -1,0 +1,1 @@
+package org.gitor.autodeployoss.entity;/** * 参数对象 * @author : liuwenlong * @date : 2018/6/4 14:23 */public class ParamsPojo {}
