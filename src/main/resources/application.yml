@@ -1,0 +1,1 @@
+server:  port: 8081# git仓库信息配置git:  #url  url: https://github.com/gitors/calligraphy.git  #分支名  branch: ""shell:  # 本地检出地址  path: /Users/liuwenlong/Downloads/test

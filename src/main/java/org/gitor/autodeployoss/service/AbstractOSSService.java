@@ -1,0 +1,1 @@
+package org.gitor.autodeployoss.service;/** * * oss 抽象类型 * @author : liuwenlong * @date : 2018/5/31 22:56 */public abstract class AbstractOSSService {    //上传、下载、删除    protected abstract boolean update();    /**     * 克隆代码     * @return     */    protected abstract boolean cloneCode();}

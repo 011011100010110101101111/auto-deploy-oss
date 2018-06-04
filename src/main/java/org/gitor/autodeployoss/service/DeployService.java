@@ -1,0 +1,1 @@
+package org.gitor.autodeployoss.service;/** * 自动部署业务类 * @author : liuwenlong * @date : 2018/5/30 18:26 */public interface DeployService {}
