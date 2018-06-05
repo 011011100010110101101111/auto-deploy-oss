@@ -1,0 +1,1 @@
+package org.gitor.autodeployoss.utils;import org.gitor.autodeployoss.entity.ParamsPojo;/** * @author : liuwenlong * @date : 2018/6/4 17:25 */public class Propertiesutils {    public static ParamsPojo getParamsPojoFromProperties(String key){        return new ParamsPojo();    }}
